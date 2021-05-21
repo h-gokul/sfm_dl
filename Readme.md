@@ -1,3 +1,4 @@
+# SFMLearner Mod
 TRAINING:
  - Paste the TrainingAndValData/ Folder with the prepared kitti data in this folder.
  - Enter the folder using cd TrainingAndValData/
