@@ -1,4 +1,10 @@
 # SFMLearner Mod
+### System Pipeline:
+
+![Screenshot from 2021-09-17 14-11-46](https://user-images.githubusercontent.com/43991028/133834858-1acab633-6fb8-4881-9744-5abd5b73bf08.png)
+
+Enhancements were made on the loss functions and the network architecture. Check the report for more details.
+
 TRAINING:
  - Paste the TrainingAndValData/ Folder with the prepared kitti data in this folder.
  - Enter the folder using cd TrainingAndValData/
@@ -31,6 +37,8 @@ For testing depth :
 - next run eval_depth to get results.
 
 To visualize depth use the visualize.ipynb notebook in kitti_eval
+
+
 
 
 References for modified architectures:
