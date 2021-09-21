@@ -1,4 +1,4 @@
-# SFMLearner Mod
+# Improving SFMLearner 
 ### System Pipeline:
 
 ![Screenshot from 2021-09-17 14-11-46](https://user-images.githubusercontent.com/43991028/133834858-1acab633-6fb8-4881-9744-5abd5b73bf08.png)
